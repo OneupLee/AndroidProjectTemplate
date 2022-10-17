@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.oneuplee.androidprojecttemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.oneuplee.androidprojecttemplate.MyBundle
 
 class MyApplicationService {
 
